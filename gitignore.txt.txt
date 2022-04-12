@@ -1,0 +1,2 @@
+API Key : mailchimp
+list Id :f94935c981
